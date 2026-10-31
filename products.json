@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Sony WH-1000XM5",
+    "include": ["xm5"],
+    "exclude": ["耳罩", "收納包", "保護", "替換"],
+    "min_price": 3000
+  }
+]
