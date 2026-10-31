@@ -1,8 +1,14 @@
 [
   {
-    "name": "Sony WH-1000XM5",
-    "include": ["xm5"],
-    "exclude": ["耳罩", "收納包", "保護", "替換"],
-    "min_price": 3000
+    "name": "iPad mini (A20 Pro)",
+    "include": ["iPad mini"],
+    "exclude": ["保護", "殼"],
+    "min_price": 22900
+  },
+  {
+    "name": "Apple iPhone Air",
+    "include": ["iPhone Air"],
+    "exclude": ["保護貼", "殼"],
+    "min_price": 39900
   }
 ]
