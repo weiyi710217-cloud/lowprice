@@ -3,12 +3,12 @@
     "name": "iPad mini (A20 Pro)",
     "include": ["ipad mini", "a20"],
     "exclude": ["保護貼", "保護殼", "保護套", "皮套", "玻璃", "鍵盤", "支架", "充電", "pencil", "二手", "福利品"],
-    "min_price": 22900
+    "min_price": 25000
   },
   {
     "name": "Apple iPhone Air",
     "include": ["iphone air"],
     "exclude": ["殼", "保護貼", "保護", "玻璃", "膜", "充電", "支架", "掛繩", "鏡頭", "配件", "二手", "福利品"],
-    "min_price": 39900
+    "min_price": 45000
   }
 ]
