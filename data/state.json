@@ -19,11 +19,11 @@
      "url": "https://24h.pchome.com.tw/prod/DYAJK6-1900KMRXP",
      "sale": false
     },
-    "note": "直連 20 筆，符合條件 13 筆"
+    "note": "直連 20 筆，Google購物 2 筆，符合條件 14 筆"
    },
    "momo": {
     "best": null,
-    "note": "momo失敗：403 Client Error: Forbidden for url: https://apise，符合條件 0 筆"
+    "note": "momo失敗：403 Client Error: Forbidden for url: https://apise，Google購物 1 筆，符合條件 0 筆"
    },
    "蝦皮": {
     "best": null,
@@ -31,11 +31,38 @@
    },
    "Coupang": {
     "best": null,
-    "note": "coupang失敗：403 Client Error: Forbidden for url: https://www.t，符合條件 0 筆"
+    "note": "coupang失敗：403 Client Error: Forbidden for url: https://www.t，Google購物 2 筆，符合條件 0 筆"
    },
    "Yahoo": {
     "best": null,
-    "note": "未設定 SERPAPI_KEY，Yahoo 無法查詢，符合條件 0 筆"
+    "note": "無資料，符合條件 0 筆"
+   },
+   "Apple Education Store": {
+    "best": null,
+    "note": "Google購物 4 筆，符合條件 0 筆"
+   },
+   "ESR": {
+    "best": null,
+    "note": "Google購物 3 筆，符合條件 0 筆"
+   },
+   "ESR-TW": {
+    "best": null,
+    "note": "Google購物 5 筆，符合條件 0 筆"
+   },
+   "hgspot.hr": {
+    "best": {
+     "site": "hgspot.hr",
+     "title": "Tablet APPLE iPad mini (A20 Pro) Wi-Fi + Cellular 256GB nano-texture glass Starlight (ml2x4hc/a)",
+     "price": 47492.0,
+     "orig": null,
+     "url": "https://www.google.com/search?ibp=oshop&q=iPad mini  A20 Pro&prds=productid:1344287319545123218,headlineOfferDocid:1344287319545123218,imageDocid:6893277190030046790,pvt:hg&hl=zh-tw&gl=tw&udm=28",
+     "sale": false
+    },
+    "note": "Google購物 1 筆，符合條件 1 筆"
+   },
+   "神腦生活": {
+    "best": null,
+    "note": "Google購物 2 筆，符合條件 0 筆"
    }
   }
  },
@@ -43,15 +70,15 @@
   "platforms": {
    "PChome": {
     "best": null,
-    "note": "直連 20 筆，符合條件 0 筆"
+    "note": "直連 20 筆，Google購物 1 筆，符合條件 0 筆"
    },
    "momo": {
     "best": null,
-    "note": "momo失敗：403 Client Error: Forbidden for url: https://apise，符合條件 0 筆"
+    "note": "momo失敗：403 Client Error: Forbidden for url: https://apise，Google購物 6 筆，符合條件 0 筆"
    },
    "蝦皮": {
     "best": null,
-    "note": "shopee失敗：403 Client Error: Forbidden for url: https://shope，符合條件 0 筆"
+    "note": "shopee失敗：403 Client Error: Forbidden for url: https://shope，Google購物 23 筆，符合條件 0 筆"
    },
    "Coupang": {
     "best": null,
@@ -59,7 +86,50 @@
    },
    "Yahoo": {
     "best": null,
-    "note": "未設定 SERPAPI_KEY，Yahoo 無法查詢，符合條件 0 筆"
+    "note": "無資料，符合條件 0 筆"
+   },
+   "Apple": {
+    "best": null,
+    "note": "Google購物 1 筆，符合條件 0 筆"
+   },
+   "HOTAI購": {
+    "best": null,
+    "note": "Google購物 1 筆，符合條件 0 筆"
+   },
+   "SKMOnline": {
+    "best": null,
+    "note": "Google購物 1 筆，符合條件 0 筆"
+   },
+   "shunstarstore.com": {
+    "best": null,
+    "note": "Google購物 1 筆，符合條件 0 筆"
+   },
+   "studioa.com.tw": {
+    "best": null,
+    "note": "Google購物 1 筆，符合條件 0 筆"
+   },
+   "the lab": {
+    "best": {
+     "site": "the lab",
+     "title": "iPhone Air 1TB",
+     "price": 61900.0,
+     "orig": null,
+     "url": "https://www.google.com/search?ibp=oshop&q=Apple iPhone Air&prds=productid:10134973857474352696,headlineOfferDocid:10134973857474352696,imageDocid:269129775127322191,rds:PC_3962409313481449337|PROD_PC_3962409313481449337,pvt:hg&hl=zh-tw&gl=tw&udm=28",
+     "sale": false
+    },
+    "note": "Google購物 1 筆，符合條件 1 筆"
+   },
+   "分期王國": {
+    "best": null,
+    "note": "Google購物 1 筆，符合條件 0 筆"
+   },
+   "萬家福線上購物": {
+    "best": null,
+    "note": "Google購物 2 筆，符合條件 0 筆"
+   },
+   "轉機站": {
+    "best": null,
+    "note": "Google購物 1 筆，符合條件 0 筆"
    }
   }
  }
